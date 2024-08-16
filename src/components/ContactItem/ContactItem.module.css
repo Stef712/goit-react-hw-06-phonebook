@@ -1,0 +1,20 @@
+.item {
+  padding: 8px;
+  margin-bottom: 6px;
+  border: 1px solid #fbebeb;
+  border-radius: 6px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.deleteButton {
+  padding: 8px 16px;
+  background-color: #34b79a;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 20px;
+}
